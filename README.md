@@ -10,7 +10,7 @@ open vc-testing.sketch
 
 ##Push the Updated Sketch File
 ```
-git add *
+git add vc-testing.sketch
 git commit -m "Updated default button style"
 git push origin your-branch-name
 ```
